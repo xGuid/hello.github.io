@@ -1,9 +1,9 @@
-style.css
 body {
-    background-color: #2380ff;
+  background-color: vivid-blue;
 }
- 
 h1 {
-    color: #230fff;
-    font-family: Arial;
+  color: blue;
+}
+button {
+  color: red;
 }
