@@ -1,9 +1,10 @@
-body {
-  background-color: vivid-blue;
-}
+
 h1 {
   color: blue;
 }
 button {
   color: red;
+}
+html { 
+   background-color: vivid blue;
 }
