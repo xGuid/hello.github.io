@@ -5,6 +5,8 @@ h1 {
 button {
   color: red;
 }
-html { 
-   background-color: vivid blue;
+body { 
+   backgroundcolor:orange;
 }
+head {background-color: vividblue;
+     }
